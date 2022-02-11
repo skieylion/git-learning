@@ -1,1 +1,16 @@
-log.txt
+
+/.gitignore.bak
+/log.txt
+/test
+
+foo?
+
+asdasd?.txt
+
+*.log
+
+logs/**
+
+*.[bc]
+
+!error.log
